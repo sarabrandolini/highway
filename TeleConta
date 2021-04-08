@@ -1,0 +1,21 @@
+public class TeleConta {
+	private String localita;
+	private int codice;
+	
+	
+	public String getLocalita() {
+		return localita;
+	}
+	public void setLocalita(String localita) {
+		this.localita = localita;
+	}
+	public int getCodice() {
+		return codice;
+	}
+	public void setCodice(int codice) {
+		this.codice = codice;
+	}
+	
+	
+
+}
