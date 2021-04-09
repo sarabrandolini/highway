@@ -15,11 +15,9 @@ public class TeleConta {
 	}
 	
 	
-	
 	public TeleConta() {
 		super();
 	}
-
 
 
 	public int[] getnMoto() {
